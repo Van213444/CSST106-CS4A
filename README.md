@@ -1,3 +1,7 @@
+<br/>
+https://github.com/user-attachments/assets/88b8f9e3-5597-45c6-8566-32774d88c463<br/>
+<br/>
+
 **Introduction to Computer Vision and Image Processing**<br/>
 <br/>
 A category of artificial intelligence (AI) called computer vision focusses on allowing robots to read, comprehend, and interpret visual data from the environment. In order to extract useful information from photos or videos, computers must be trained to process and analyse them similarly to how people see their environment.<br/>
