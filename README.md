@@ -12,7 +12,7 @@ Image Segmentation - Divides an image into multiple segments to isolate objects 
 <br/>
 Image Filtering - Applies filters (e.g., edge detection, blurring) to highlight or suppress certain features in an image.<br/>
 <br/>
-**Case Study Overview**
+**Case Study Overview**<br/>
 <br/>
 A Smart Parking System: An IoT Based Computer Vision Approach for Free Parking Spot Detection Using Faster R-CNN with YOLOv3 Method<br/>
 <br/>
@@ -22,4 +22,9 @@ Nowadays, parking is much costlier and time consuming process in almost every bi
 <br/>
 This Python script implements a system designed to detect and display available parking spots in real-time using computer vision. The process involves analyzing video frames from a parking lot, determining whether individual spots are occupied or vacant, and providing visual feedback on the status of each parking space. The code leverages OpenCV for image processing and video handling, as well as some utility functions for key tasks like identifying parking spot locations and determining their occupancy.<br/>
 <br/>
-![alt text](http://url/to/img.png)
+![http://url/to/img.png](https://github.com/Van213444/CSST106-CS4D/blob/5e3f677d18949fdd66434e77c5bcd1a427b4cbc9/Screenshot%202024-09-05%20212817.png)<br/>
+<br/>
+**Conclusion**<br/>
+<br/>
+The ability to pre-process images, whether by enhancing contrast, segmenting important areas of interest, or applying filters to isolate important features, directly impacts the performance and accuracy of AI models. Image processing is a fundamental component in the success of AI applications, particularly in fields such as computer vision. This project on parking spot detection made the significance of image processing clear. Even in dynamic and unpredictably changing situations, the AI in the parking spot recognition system was able to distinguish between occupied and available parking places thanks to image processing. <br/>
+<br/>
