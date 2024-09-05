@@ -28,3 +28,5 @@ This Python script implements a system designed to detect and display available 
 <br/>
 The ability to pre-process images, whether by enhancing contrast, segmenting important areas of interest, or applying filters to isolate important features, directly impacts the performance and accuracy of AI models. Image processing is a fundamental component in the success of AI applications, particularly in fields such as computer vision. This project on parking spot detection made the significance of image processing clear. Even in dynamic and unpredictably changing situations, the AI in the parking spot recognition system was able to distinguish between occupied and available parking places thanks to image processing. <br/>
 <br/>
+**code**<br/>
+<br/>https://drive.google.com/file/d/1ktKYy6JcKIcEJ_PR8rHLpOsk2AVXersa/view?usp=sharing<br/>
