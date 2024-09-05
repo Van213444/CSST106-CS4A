@@ -1,6 +1,5 @@
-<br/>
-https://github.com/user-attachments/assets/88b8f9e3-5597-45c6-8566-32774d88c463<br/>
-<br/>
+
+https://github.com/user-attachments/assets/88b8f9e3-5597-45c6-8566-32774d88c463
 
 **Introduction to Computer Vision and Image Processing**<br/>
 <br/>
